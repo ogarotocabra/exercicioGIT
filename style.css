@@ -1,0 +1,43 @@
+/*personalização da página*/
+body{
+    background-image: url(berserk.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+}
+/*personalização do subtítulo*/
+.subtitulo{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 45px;
+    color:DarkRed;
+    font-family: 'Tangerine', cursive;
+    text-decoration: underline;
+    text-shadow: 5px 5px 4px black;
+    text-align:center; 
+}
+/*personalização do parágrafo*/
+.paragrafo{
+    color:#000000;
+    font-family: 'Long Cang', cursive;
+    font-size: 40px;
+    font-weight: bold;
+    text-align:center;
+    letter-spacing: 3px;
+    word-spacing: 3px;
+    direction: ltr;
+    text-indent: 5px;
+    line-height: 30px;
+}
+/*personalização do título principal*/
+.maintitle{
+    color:rgba(255,165,0,0.3);
+    text-decoration:overline;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 50px;
+    font-variant: small-caps;
+    font-family:times, serif;
+    text-shadow: 5px 5px 7px black;
+    text-align:center;
+    text-transform: uppercase;
+}
